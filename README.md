@@ -33,6 +33,8 @@ Q3: What is the date and time the email was sent?
 A3:18 March 2021 04:14
 
 Q4 What is the Originating IP?
+I used a text editor to access the email header information and get the result for questions 4 and 5
+![Screenshot 2024-08-09 164546](https://github.com/user-attachments/assets/f8887c89-6908-4d0a-98f0-afa16651542a)
 
 A4: 103.9.171.10
 
